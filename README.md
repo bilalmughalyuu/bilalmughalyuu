@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bilalmughalyuu
-- 👀 I’m interested in flutter
+- 👀 I’m interested in JS, React, React Native, FLutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
